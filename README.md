@@ -29,3 +29,9 @@ Complete A/B testing framework including:
 - **Statistical Testing**: Chi-square, Z-tests, confidence intervals
 - **Analysis**: Power analysis, effect size calculation
 
+##  How to Run
+1. Clone repository
+2. Install requirements: `pip install -r requirements.txt`
+3. Run notebook: `jupyter notebook notebooks/ab_testing_analysis.ipynb`
+
+## 📁 Project Structure
