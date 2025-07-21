@@ -1,15 +1,15 @@
 # End-to-End A/B Testing Framework for Marketing Campaign Optimization
 
-## 🎯 Business Problem
+##  Business Problem
 A company wanted to optimize their digital marketing strategy by comparing two campaign approaches to determine which delivers better customer acquisition efficiency and return on ad spend (ROAS).
 
-## 📊 Key Findings
+##  Key Findings
 - **46% conversion rate improvement** in Test campaign vs Control
 - **Statistical significance**: p < 0.001 (highly significant)
 - **95% Confidence Interval**: 33% to 60% improvement
 - **Business Impact**: Test campaign 1.5x more effective despite 30% fewer impressions
 
-## 🔬 Methodology
+##  Methodology
 Complete A/B testing framework including:
 - Business problem definition and metric selection
 - Exploratory data analysis and visualization
