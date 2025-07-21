@@ -34,11 +34,8 @@ Complete A/B testing framework including:
 2. Install requirements: `pip install -r requirements.txt`
 3. Run notebook: `jupyter notebook notebooks/ab_testing_analysis.ipynb`
 
-## 📁 Project Structure (CURRNT)
 
-├── README.md
-├── data/
-│   ├── control_campaign.csv
-│   └── test_campaign.csv
-├── notebooks/
-│   └── ab_testing_analysis.ipynb
+
+
+
+
